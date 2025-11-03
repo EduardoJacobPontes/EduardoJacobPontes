@@ -1,9 +1,5 @@
 ## Eduardo Jacob Pontes 
-## meu linkedin
-<div>
-   <a href="https://github.com/EduardoJacobPontes">
-      https://www.linkedin.com/in/eduardo-jacob-pontes-574b0b2b5/ 
-</div>
+## Graduando em Engenharia de Software. Perfil proativo, dinâmico e com boas habilidades de relacionamento, motivado por desafios e comprometido com aprendizado contínuo, buscando aprimorar minhas competências profissionais, atuando de forma colaborativa sempre em busca das melhores soluções aos problemas apresentados, contribuindo para o alcance das metas e crescimento da equipe.
 
 
 
