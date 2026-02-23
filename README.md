@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo Jacob! 👋
 
-### 🚀 Estudante de Engenharia de Software @ Ibmec (4º Período)
+### 🚀 Estudante de Engenharia de Software @ Ibmec (5º Período)
 Moro no Rio de Janeiro e sou apaixonado por transformar problemas complexos em soluções eficientes através de código. Atualmente, foco em **Desenvolvimento de Software, Inteligência Artificial e Visão Computacional**.
 
 ---
