@@ -62,9 +62,9 @@ Moro no Rio de Janeiro e sou apaixonado por transformar problemas complexos em s
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoJacobPontes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJacobPontes&layout=compact&theme=radical&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoJacobPontes&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" alt="Status de Eduardo" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJacobPontes&layout=compact&theme=radical&hide_border=false" alt="Linguagens de Eduardo" />
 </p>
-
 
 
