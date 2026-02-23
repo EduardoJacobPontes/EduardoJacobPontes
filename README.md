@@ -40,6 +40,15 @@ Moro no Rio de Janeiro e sou apaixonado por transformar problemas complexos em s
 * **Global AI Bootcamp 2024** | Attendee
 * **Modelagem de Dados** | Fundação Bradesco
 * **Inglês Avançado** | CCAA
+* **21ª Olimpíada de Astronomia e Astronáutica – OBA** | Maio 2018
+* **Atividade de voluntariado Projeto Sion Solidário** | Cólegio Sion Dezembro 2019
+* **Intermediário em Desenvolvimento Front-End** | Ibmec 2024
+* **Intermediário em Desenvolvimento Web** | Ibmec 2024              
+* **Java Foundations** | Oracle Junho de 2025
+* **Intermediário em Desenvolvimento Back-End** | Ibmec 2025         
+* **Introdução à Análise de Dados – Microsoft Power BI** | Fundação Bradesco 2025
+
+
 
 ---
 
